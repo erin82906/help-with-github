@@ -1,0 +1,17 @@
+/* CSS rule*/
+
+body { /* selector ; the body only as big as the content that you type in html. */
+    margin: 0; /* css property: value; */
+
+    border-width: 20px;
+    border-style: dashed;
+    border-color:cadetblue;
+    /* the border property shorthand */
+    border: 10px solid cadetblue;
+}
+/* css rule */
+
+p{ /* selector */
+    color:pink; /* declaration */
+    /* property; value; */
+}
