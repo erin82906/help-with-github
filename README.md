@@ -1,5 +1,5 @@
 # Help with github
-This is my ＊＊github＊＊ ＊playground＊.
+This is my **github** *playground*.
 
 What can we do:
 - A new github repo (Make a list with dash + sapce)
@@ -8,7 +8,7 @@ What can we do:
 
 ## Heading 2
 ### Ordered List (Heading 3)
-1. one
+1. oneㄒ
 2. two
 3. three
 
